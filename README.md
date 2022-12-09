@@ -9,7 +9,7 @@ Problem Statement:
 
 ![eigen faces](https://user-images.githubusercontent.com/109617585/206659459-ec47b86f-0d5c-44b2-a620-9677a1442ff4.JPG)
 
-PcA Detailed Working:
+PCA Detailed Working:
 ![pca working](https://user-images.githubusercontent.com/109617585/206659584-6154a783-4abf-4c69-8d67-dd7402506994.JPG)
 
 
